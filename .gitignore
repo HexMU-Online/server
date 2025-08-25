@@ -1,0 +1,11 @@
+/ConnectServer/LOG
+/MHPServer/LOG
+/DataServer/LOG
+/GameServer/LOG
+/JoinServer/LOG
+/DiscordServer/LOG
+/JoinServer/LOG_ACCOUNT
+/Tools
+/StartUp/Logs
+DiscordServer/DiscordConfig.txt
+DiscordServer/DiscordServer.ini

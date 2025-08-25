@@ -1,0 +1,8 @@
+//Account         Name         Level
+"louismk" "LuisADM" 2
+"hzark2" "SauloADM" 2
+"gm01" "[GM]Zeymar" 1
+"gm02" "LUNA[GM]" 1
+"gm03" "FooF[GM]" 1
+"gm04" "[GM]Biava" 1
+end

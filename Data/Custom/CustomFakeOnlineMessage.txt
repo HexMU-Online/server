@@ -1,0 +1,6 @@
+//index text 
+0 "Are You crazy !! You attack me"
+1 "Next time we do not approach"
+2 "You Are Noob !!"
+3 "I am the master and ruler"
+4 "I will come back"
