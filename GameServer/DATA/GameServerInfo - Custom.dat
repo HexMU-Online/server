@@ -230,7 +230,7 @@ CustomOffHelperCanMove = 1
 ;==================================================
 ; Custom Flag System
 ;==================================================
-CustomFlagSwitch = 1
+CustomFlagSwitch = 0
 
 ;==================================================
 ; Party Search
@@ -256,7 +256,7 @@ CustomInvasionInfoSwitch = 1
 ;==================================================
 ; Custom Skin System
 ;==================================================
-CustomSkinSwitch = 1
+CustomSkinSwitch = 0
 
 //=================================================================================================================
 //-- Custom Jewel Bank (J)
@@ -314,7 +314,7 @@ CustomBattlePassStarEventCount = 10
 ; Custom Daily Reward
 ;==================================================
 CustomDailyRewardSwitch	= 1
-CustomDailyRewardEnable_AL0 = 0
+CustomDailyRewardEnable_AL0 = 1
 CustomDailyRewardEnable_AL1 = 1
 CustomDailyRewardEnable_AL2 = 1
 CustomDailyRewardEnable_AL3 = 1
@@ -352,7 +352,7 @@ CustomGuildReignAllowAllianceGate = 1
 ;==================================================
 ; Custom Black Smith Item
 ;==================================================
-CustomSmithItem = 1
+CustomSmithItem = 0
 CustomSmithItemEnable_AL0 = 1
 CustomSmithItemEnable_AL1 = 1
 CustomSmithItemEnable_AL2 = 1

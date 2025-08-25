@@ -174,14 +174,14 @@ ElfBufferDefenseConstB = 3
 ;==================================================
 ; Experience Settings
 ;==================================================
-AddExperienceRate_AL0 = 800
-AddExperienceRate_AL1 = 1000
-AddExperienceRate_AL2 = 1000
-AddExperienceRate_AL3 = 1000
-AddMasterExperienceRate_AL0 = 800
-AddMasterExperienceRate_AL1 = 1000
-AddMasterExperienceRate_AL2 = 1000
-AddMasterExperienceRate_AL3 = 1000
+AddExperienceRate_AL0 = 10
+AddExperienceRate_AL1 = 20
+AddExperienceRate_AL2 = 30
+AddExperienceRate_AL3 = 40
+AddMasterExperienceRate_AL0 = 10
+AddMasterExperienceRate_AL1 = 20
+AddMasterExperienceRate_AL2 = 30
+AddMasterExperienceRate_AL3 = 40
 MinMasterExperienceMonsterLevel_AL0 = 95
 MinMasterExperienceMonsterLevel_AL1 = 95
 MinMasterExperienceMonsterLevel_AL2 = 95
@@ -194,32 +194,32 @@ AddQuestExperienceRate_AL0 = 800
 AddQuestExperienceRate_AL1 = 1000
 AddQuestExperienceRate_AL2 = 1000
 AddQuestExperienceRate_AL3 = 1000
-OffAttackExperienceRate_AL0 = 600
-OffAttackExperienceRate_AL1 = 800
-OffAttackExperienceRate_AL2 = 800
-OffAttackExperienceRate_AL3 = 800
-AutoResetExperienceRate_AL0 = 600
-AutoResetExperienceRate_AL1 = 800
-AutoResetExperienceRate_AL2 = 800
-AutoResetExperienceRate_AL3 = 800
+OffAttackExperienceRate_AL0 = 10
+OffAttackExperienceRate_AL1 = 20
+OffAttackExperienceRate_AL2 = 30
+OffAttackExperienceRate_AL3 = 40
+AutoResetExperienceRate_AL0 = 10
+AutoResetExperienceRate_AL1 = 20
+AutoResetExperienceRate_AL2 = 30
+AutoResetExperienceRate_AL3 = 40
 
 ;==================================================
 ; Item Drop Settings
 ;==================================================
 ItemDropTime = 20
-ItemDropRate_AL0 = 60
-ItemDropRate_AL1 = 60
-ItemDropRate_AL2 = 60
-ItemDropRate_AL3 = 60
+ItemDropRate_AL0 = 10
+ItemDropRate_AL1 = 20
+ItemDropRate_AL2 = 30
+ItemDropRate_AL3 = 40
 
 ;==================================================
 ; Money Drop Settings
 ;==================================================
 MoneyDropTime = 10
-MoneyAmountDropRate_AL0 = 50
-MoneyAmountDropRate_AL1 = 50
-MoneyAmountDropRate_AL2 = 50
-MoneyAmountDropRate_AL3 = 50
+MoneyAmountDropRate_AL0 = 90
+MoneyAmountDropRate_AL1 = 80
+MoneyAmountDropRate_AL2 = 70
+MoneyAmountDropRate_AL3 = 60
 
 ;==================================================
 ; Advanced Money Drop Settings
@@ -493,7 +493,7 @@ HelperStageTime = 200
 ;==================================================
 ; Cash Shop Settings
 ;==================================================
-CashShopSwitch = 1
+CashShopSwitch = 0
 CashShopScriptVersion1 = 512
 CashShopScriptVersion2 = 2011
 CashShopScriptVersion3 = 6

@@ -2,7 +2,7 @@
 ;==================================================
 ; Connection Settings
 ;==================================================
-DiscordServerActive = 0
+DiscordServerActive = 1
 DiscordServerAddress = 127.0.0.1
 DiscordServerPort = 55990
 
