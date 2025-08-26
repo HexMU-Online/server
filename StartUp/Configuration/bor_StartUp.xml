@@ -5,4 +5,5 @@
   <Process Run="True" Delay="1000" Path="C:\hexmu\[SERVER]\JoinServer\JoinServer.exe" Parameters="" />
   <Process Run="True" Delay="1000" Path="C:\hexmu\[SERVER]\DiscordServer\DiscordServer.exe" Parameters="" />
   <Process Run="True" Delay="1000" Path="C:\hexmu\[SERVER]\GameServer\GameServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\hexmu\[SERVER]\GameServerCS\GameServer.exe" Parameters="" />
 </Processes>
