@@ -95,7 +95,7 @@ MonsterHealthBarSwitch = 1
 ; PK Settings
 ;==================================================
 NonPK = 0
-PKLimitFree = 0
+PKLimitFree = 2
 PKDownTime1 = 3600
 PKDownTime2 = 3600
 PKDisableShop = 0
@@ -207,19 +207,19 @@ AutoResetExperienceRate_AL3 = 40
 ; Item Drop Settings
 ;==================================================
 ItemDropTime = 20
-ItemDropRate_AL0 = 10
-ItemDropRate_AL1 = 20
-ItemDropRate_AL2 = 30
-ItemDropRate_AL3 = 40
+ItemDropRate_AL0 = 8
+ItemDropRate_AL1 = 10
+ItemDropRate_AL2 = 12
+ItemDropRate_AL3 = 16
 
 ;==================================================
 ; Money Drop Settings
 ;==================================================
 MoneyDropTime = 10
-MoneyAmountDropRate_AL0 = 90
-MoneyAmountDropRate_AL1 = 80
-MoneyAmountDropRate_AL2 = 70
-MoneyAmountDropRate_AL3 = 60
+MoneyAmountDropRate_AL0 = 92
+MoneyAmountDropRate_AL1 = 90
+MoneyAmountDropRate_AL2 = 88
+MoneyAmountDropRate_AL3 = 84
 
 ;==================================================
 ; Advanced Money Drop Settings
@@ -661,7 +661,7 @@ HpBonus_MAX = 10000
 
 ;==================================================
 ; Online User System
-; Exibe mensagem de conex�o Gm/Player.
+; Exibe mensagem de conex o Gm/Player.
 ;==================================================
 OnlineGmSwitch = 1
 OnlineUserSwitch = 1
@@ -669,13 +669,13 @@ OnlineUserSwitch = 1
 ;==================================================
 ; Disable exp message (Premium)
 ; Desabilita a mensagem de experiencia ganha ao matar um mob.
-; S� � exibida quando sobe de level.
+; S    exibida quando sobe de level.
 ;==================================================
 DisableExpMessage = 0
 
 ;==================================================
 ; Remover Recuo (Premium)
-; Remove o recuo/empurr�o das skills
+; Remove o recuo/empurr o das skills
 ;==================================================
 DisableLightningEffect  = 1
 DisableCycloneEffect  = 1
@@ -686,7 +686,7 @@ DisableUpperCutEffect  = 1
 
 ;==================================================
 ; Disable Wings Class Mix
-; Desabilita cria��o de asas para classes
+; Desabilita cria  o de asas para classes
 ;==================================================
 DisableWingMixDL = 0
 DisableWingMixSU = 0
