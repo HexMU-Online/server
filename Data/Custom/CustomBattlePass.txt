@@ -2,7 +2,7 @@
 //Requirement
 0	
 	//Index   ReqLevel   ReqReset   ReqMasterReset   AccountLevel
-	0	  0          10          0                0
+	0	  0          10         0                0
 	1	  400        0          0                0
 	2	  0          100        0                0
 	3	  0          200        0                0
@@ -21,12 +21,12 @@ end
 // 3: Coins
 1
 	//Index   Slot   Value  ItemPosX  ItemPosY   ItemSize   ItemIndex   Level   Dur   Skill   Luck   Option   ExcOp   SetOp   JoH   OEx   Socket1   Socket2   Socket3   Socket4   Socket5   BonusSocket  Duration   Name
-	0 	  1      5      0         5          7          6670        0       0     0       0      0        0       0       0     0     255       255       255       255       255       255          1000          //Box +1
-	0 	  2      5      0         5          7          6670        1       0     0       0      0        0       0       0     0     255       255       255       255       255       255          1000          //Box +2
-	0 	  3      5      0         0          7          7179        8       0     0       0      0        0       0       0     0     255       255       255       255       255       255          1000          //Box +1
+	0 	  1      5      0         5          7          6670        0       0     0       0      0        0       0       0     0     255       255       255       255       255       255          1000       //Box +1
+	0 	  2      5      0         5          7          6670        1       0     0       0      0        0       0       0     0     255       255       255       255       255       255          1000       //Box +2
+	0 	  3      5      0         0          7          7179        8       0     0       0      0        0       0       0     0     255       255       255       255       255       255          1000       //Box +1
 	0 	  4      5      0         5          8          6181        15      0     1       1      7       63       0       0     0     255       255       255       255       255       255          1000       //Box +3
-	0 	  5      5      0         0          7          7179        10      0     0       0      0        0       0       0     0     255       255       255       255       255       255          1000          //Box +1
-	0 	  6      5      0         0          7          7179        12      0     0       0      0        0       0       0     0     255       255       255       255       255       255          1000          //Box +2
+	0 	  5      5      0         0          7          7179        10      0     0       0      0        0       0       0     0     255       255       255       255       255       255          1000       //Box +1
+	0 	  6      5      0         0          7          7179        12      0     0       0      0        0       0       0     0     255       255       255       255       255       255          1000       //Box +2
 
 	//Index   Slot   Value  ItemPosX  ItemPosY   ItemSize   ItemIndex   Level   Dur   Skill   Luck   Option   ExcOp   SetOp   JoH   OEx   Socket1   Socket2   Socket3   Socket4   Socket5   BonusSocket   Duration   Name
 	1 	  1      1      0         0          7          7181        0       0     0       0      0        0       0       0     0     255       255       255       255       255       255          0          //Bundled Jewel of Bless+10

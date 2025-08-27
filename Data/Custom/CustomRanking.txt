@@ -11,9 +11,9 @@
 //     #RankIndex          #Name            #Coluna 1        #Coluna 2	 
 //=================================================================================================================
 0
-            0            "Geral"           "Personagem:"    "Master Resets:"
-            1            "Reset"           "Personagem:"    "Resets:"
-	    2            "Level"           "Personagem:"    "Level:"
-	    3            "Blood Castle"    "Personagem:"    "Pontos:"
-	    4            "Devil Square"    "Personagem:"    "Pontos:"
+            0            "Master Reset"    "Name:"    "Master Resets:"
+            1            "Reset"           "Name:"    "Resets:"
+	    2            "Level"           "Name:"    "Level:"
+	    3            "Blood Castle"    "Name:"    "Points:"
+	    4            "Devil Square"    "Name:"    "Points:"
 end
