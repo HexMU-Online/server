@@ -28,7 +28,7 @@ end
 //       #ID     #WC     #WP	 #GP         #Question				      		        #Answer		 
 //=================================================================================================================
 2
-	  0      10       0       0	     "Cidade Maravilhosa?"					"Rio de Janeiro"	
+	  0      10       0       0	     "What's the server website?"				"hexmu.online"	
 	  1      10       0       0	     "10+2x2?"							"14"
 	  2      10       0       0	     "Qual o site do jogo?"					"www.seusite.com"
 	  3      10       0       0	     "Um dos maiores cientistas do mundo?"			"Albert Einstein"
