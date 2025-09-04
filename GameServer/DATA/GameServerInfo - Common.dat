@@ -3,7 +3,7 @@
 ; Customer Settings
 ;==================================================
 CustomerName = HexMU
-CustomerHardwareId = D20F6A3B-0A25B069-F45BFB5E-2B48D8E7
+CustomerHardwareId = 20966AEB-325FA561-F45B5A92-2B48D8E7
 
 ;==================================================
 ; Server Settings
@@ -174,14 +174,14 @@ ElfBufferDefenseConstB = 3
 ;==================================================
 ; Experience Settings
 ;==================================================
-AddExperienceRate_AL0 = 10
-AddExperienceRate_AL1 = 20
-AddExperienceRate_AL2 = 30
-AddExperienceRate_AL3 = 40
-AddMasterExperienceRate_AL0 = 10
-AddMasterExperienceRate_AL1 = 20
-AddMasterExperienceRate_AL2 = 30
-AddMasterExperienceRate_AL3 = 40
+AddExperienceRate_AL0 = 50
+AddExperienceRate_AL1 = 75
+AddExperienceRate_AL2 = 75
+AddExperienceRate_AL3 = 100
+AddMasterExperienceRate_AL0 = 50
+AddMasterExperienceRate_AL1 = 75
+AddMasterExperienceRate_AL2 = 75
+AddMasterExperienceRate_AL3 = 100
 MinMasterExperienceMonsterLevel_AL0 = 95
 MinMasterExperienceMonsterLevel_AL1 = 95
 MinMasterExperienceMonsterLevel_AL2 = 95
@@ -194,10 +194,10 @@ AddQuestExperienceRate_AL0 = 800
 AddQuestExperienceRate_AL1 = 1000
 AddQuestExperienceRate_AL2 = 1000
 AddQuestExperienceRate_AL3 = 1000
-OffAttackExperienceRate_AL0 = 10
-OffAttackExperienceRate_AL1 = 20
-OffAttackExperienceRate_AL2 = 30
-OffAttackExperienceRate_AL3 = 40
+OffAttackExperienceRate_AL0 = 50
+OffAttackExperienceRate_AL1 = 75
+OffAttackExperienceRate_AL2 = 75
+OffAttackExperienceRate_AL3 = 100
 AutoResetExperienceRate_AL0 = 10
 AutoResetExperienceRate_AL1 = 20
 AutoResetExperienceRate_AL2 = 30

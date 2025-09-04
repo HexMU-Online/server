@@ -3,7 +3,7 @@
 ; Customer Settings
 ;==================================================
 CustomerName = HexMU
-CustomerHardwareId = D20F6A3B-5C79A468-F45BC123-2B48D8E7
+CustomerHardwareId = 20966AEB-325FA561-F45B5A92-2B48D8E7
 
 ;==================================================
 ; Server Settings
@@ -168,14 +168,14 @@ ElfBufferDefenseConstB = 3
 ;==================================================
 ; Experience Settings
 ;==================================================
-AddExperienceRate_AL0 = 800
-AddExperienceRate_AL1 = 1000
-AddExperienceRate_AL2 = 1000
-AddExperienceRate_AL3 = 1000
-AddMasterExperienceRate_AL0 = 800
-AddMasterExperienceRate_AL1 = 1000
-AddMasterExperienceRate_AL2 = 1000
-AddMasterExperienceRate_AL3 = 1000
+AddExperienceRate_AL0 = 50
+AddExperienceRate_AL1 = 75
+AddExperienceRate_AL2 = 75
+AddExperienceRate_AL3 = 100
+AddMasterExperienceRate_AL0 = 50
+AddMasterExperienceRate_AL1 = 75
+AddMasterExperienceRate_AL2 = 75
+AddMasterExperienceRate_AL3 = 100
 MinMasterExperienceMonsterLevel_AL0 = 95
 MinMasterExperienceMonsterLevel_AL1 = 95
 MinMasterExperienceMonsterLevel_AL2 = 95
@@ -188,32 +188,32 @@ AddQuestExperienceRate_AL0 = 800
 AddQuestExperienceRate_AL1 = 1000
 AddQuestExperienceRate_AL2 = 1000
 AddQuestExperienceRate_AL3 = 1000
-OffAttackExperienceRate_AL0 = 600
-OffAttackExperienceRate_AL1 = 800
-OffAttackExperienceRate_AL2 = 800
-OffAttackExperienceRate_AL3 = 800
-AutoResetExperienceRate_AL0 = 600
-AutoResetExperienceRate_AL1 = 800
-AutoResetExperienceRate_AL2 = 800
-AutoResetExperienceRate_AL3 = 800
+OffAttackExperienceRate_AL0 = 50
+OffAttackExperienceRate_AL1 = 75
+OffAttackExperienceRate_AL2 = 75
+OffAttackExperienceRate_AL3 = 100
+AutoResetExperienceRate_AL0 = 10
+AutoResetExperienceRate_AL1 = 20
+AutoResetExperienceRate_AL2 = 30
+AutoResetExperienceRate_AL3 = 40
 
 ;==================================================
 ; Item Drop Settings
 ;==================================================
-ItemDropTime = 30
-ItemDropRate_AL0 = 100
-ItemDropRate_AL1 = 100
-ItemDropRate_AL2 = 100
-ItemDropRate_AL3 = 100
+ItemDropTime = 20
+ItemDropRate_AL0 = 8
+ItemDropRate_AL1 = 10
+ItemDropRate_AL2 = 12
+ItemDropRate_AL3 = 16
 
 ;==================================================
 ; Money Drop Settings
 ;==================================================
-MoneyDropTime = 30
-MoneyAmountDropRate_AL0 = 50
-MoneyAmountDropRate_AL1 = 50
-MoneyAmountDropRate_AL2 = 50
-MoneyAmountDropRate_AL3 = 50
+MoneyDropTime = 10
+MoneyAmountDropRate_AL0 = 92
+MoneyAmountDropRate_AL1 = 90
+MoneyAmountDropRate_AL2 = 88
+MoneyAmountDropRate_AL3 = 84
 
 ;==================================================
 ; Advanced Money Drop Settings
@@ -628,7 +628,7 @@ HpBonus_MAX = 10000
 
 ;==================================================
 ; Online User System
-; Exibe mensagem de conex�o Gm/Player.
+; Exibe mensagem de conex o Gm/Player.
 ;==================================================
 OnlineGmSwitch = 1
 OnlineUserSwitch = 1
@@ -636,13 +636,13 @@ OnlineUserSwitch = 1
 ;==================================================
 ; Disable exp message (Premium)
 ; Desabilita a mensagem de experiencia ganha ao matar um mob.
-; S� � exibida quando sobe de level.
+; S    exibida quando sobe de level.
 ;==================================================
 DisableExpMessage = 0
 
 ;==================================================
 ; Remover Recuo (Premium)
-; Remove o recuo/empurr�o das skills
+; Remove o recuo/empurr o das skills
 ;==================================================
 DisableLightningEffect  = 1
 DisableCycloneEffect  = 1
@@ -653,7 +653,7 @@ DisableUpperCutEffect  = 1
 
 ;==================================================
 ; Disable Wings Class Mix
-; Desabilita cria��o de asas para classes
+; Desabilita cria  o de asas para classes
 ;==================================================
 DisableWingMixDL = 0
 DisableWingMixSU = 0

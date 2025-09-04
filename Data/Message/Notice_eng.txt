@@ -1,4 +1,4 @@
 //Message                                                      Type   Count   Opacity   Delay   Red   Green   Blue   Speed   RepeatTime
 "Thanks for playing HexMU Online"                              0      0       0         0       0     0       0      0       600
-"Join Discord! ~ hexmu.online/discord"                         0      0       0         0       0     0       0      0       360
+"Join Discord! ~ hexmu.com/discord"                            0      0       0         0       0     0       0      0       360
 end

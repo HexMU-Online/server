@@ -53,7 +53,7 @@
 	29       "/setvip"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0	2		0	0	0	0	//setvip <account> <type> <days>- Add vip to a account
 	30 	 "/marry"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0	0		0	0	0	0	//marry to <player>		- Marry to a player
 	31 	 "/abrirbau"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0	0		0	0	0	0	//abrirbau			- Open warehouse
-	32 	 "/classchange"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0	0		250	0	0	0	//classchange <type>		- Change character class
+	32 	 "/classchange"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0	0		500	0	0	0	//classchange <type>		- Change character class
 	33 	 "/premiar"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0	1		0	0	0	0	//reward <name> <type> <value>  - Reward a player	
 	34 	 "/premiarall"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0	1		0	0	0	0 	//rewardall <type> <value>	- Reward all players
 	35 	 "/reload"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0	2		0	0	0	0	//reload <type>			- Reload config
@@ -77,12 +77,12 @@
 	53	 "/resp"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0	0		0	0	0	0	//resp	<msg>			- Quiz event 
 	54       "/pick"			1	1	1	1			2000	2000	2000	2000			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0	0		0	0	0	0	//pick <type>			- Auto get itens
 	55       "/ajuda"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0	0		0	0	0	0	//ajuda				- Summon help
-	56       "/remaster"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0	0		0	0	0	0	//remaster			- ReAdd Master Skill Tree
+	56       "/remaster"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0	0		50	0	0	0	//remaster			- ReAdd Master Skill Tree
 	57       "/startbc"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0	2		0	0	0	0	//startbc			- Start Blood Castle event
 	58       "/startds"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0	2		0	0	0	0	//startds			- Start Devil Square event
 	59       "/startcc"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0	2		0	0	0	0	//startcc			- Start Chaos Castle event
 	60       "/startit"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0	2		0	0	0	0	//startit			- Start Illus.Temple event
-	61       "/offpvp"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0	0		50	0	0	0	//offpvp			- Disable Pvp
+	61       "/offpvp"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0	1		0	0	0	0	//offpvp			- Disable Pvp
 	62       "/lock"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0	0		0	0	0	0	//lock <password>		- Block Itens Move
 	63       "/unlock"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0	0		0	0	0	0	//unlock <password>		- Desbloc Itens Move
 	64       "/store"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0	0		0	0	0	0	//store <type>			- Open Custom Store
