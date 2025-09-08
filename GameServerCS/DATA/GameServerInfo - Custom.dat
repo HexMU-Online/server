@@ -97,14 +97,14 @@ CustomOnlineLotteryNoOff = 1
 ; Custom Quest Settings
 ;==================================================
 CustomQuestSwitch = 1
-CustomQuestMonsterCountParty = 1
+CustomQuestMonsterCountParty = 1
 
 ;==================================================
 ; Custom RankUser Settings (CustomRankUser.txt)
 ; Type Reset = 0, Type Master Reset = 1, Type Level = 2 , Type Quest = 3
 ;==================================================
 CustomRankUserSwitch = 1
-CustomRankUserType = 3
+CustomRankUserType = 0
 CustomRankUserRewardSwitch = 1
 CustomRankUserNoticeToAll = 1
 CustomRankUserNoticeToUser = 1

@@ -105,7 +105,7 @@ CustomQuestMonsterCountParty = 1
 ; Type Reset = 0, Type Master Reset = 1, Type Level = 2 , Type Quest = 3
 ;==================================================
 CustomRankUserSwitch = 1
-CustomRankUserType = 3
+CustomRankUserType = 0
 CustomRankUserRewardSwitch = 1
 CustomRankUserNoticeToAll = 1
 CustomRankUserNoticeToUser = 1

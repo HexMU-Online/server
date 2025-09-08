@@ -8,7 +8,7 @@ CustomerHardwareId = 20966AEB-325FA561-F45B5A92-2B48D8E7
 ;==================================================
 ; Server Settings
 ;==================================================
-ServerName = JogandoMU_CS
+ServerName = HexCS
 ServerCode = 19
 ServerLock = 0
 ServerTimeZone = UTC+3 		
