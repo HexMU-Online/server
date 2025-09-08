@@ -16,26 +16,28 @@
 //     #RankIndex          #Name            #ResetMin        #ResetMax         #WC       #WP          #GP		 
 //=================================================================================================================
 0
-            0            "Novice"             0                50               0          0           0		
-            1            "Apprentice"         51               100              100        0           0	
-            2            "Messenger"          101              150              100        0           0	
-            3            "Hunter"             151              200              100        0           0	
-            4            "Assassin"           201              250              100        0           0	
-            5            "Archer"             251              300              100        0           0	
-            6            "Lancer"             301              350              100        0           0	
-            7            "Knight"             351              400              100        0           0	
-            8            "Soldier"            401              450              100        0           0	
-            9            "Mage"               451              500              100        0           0	
-            10           "Warrior"            501              550              100        0           0	
-            11           "Gladiator"          551              600              100        0           0	
-            12           "General"            601              650              100        0           0	
-            13           "Battle Master"      651              700              100        0           0	
-            14           "Liberator"          701              750              100        0           0	
-            15           "Lord"               751              800              100        0           0	
-            16           "Myth"               801              850              100        0           0	
-            17           "Demigod"            851              900              100        0           0	
-            18           "Immortal"           901              950              100        0           0	
-            19           "Alpha"              951              1000             100        0           0	
-            20           "Hero"               1001             1100             100        0           0	
-            21           "God"                1101             -1               100        0           0
+            0            "Initiate"           0                40               0          0           0		
+            1            "Apprentice"         41               80               0          0           0	
+            2            "Runeseeker"         81               120              0          0           0	
+            3            "Soulhunter"         121              160              0          0           0	
+            4            "Voidstalker"        161              200              0          0           0	
+            5            "Netherbound"        201              240              0          0           0	
+            6            "Warden"             241              280              0          0           0	
+            7            "Runecaster"         281              320              0          0           0	
+            8            "Gladiator"          321              360              0          0           0	
+            9            "Warbringer"         361              400              0          0           0	
+            10           "Riftcaller"         401              440              0          0           0	
+            11           "Hex Knight"         441              480              0          0           0	
+            12           "Liberator"          481              520              0          0           0	
+            13           "Lord"               521              560              0          0           0	
+            14           "Myth"               561              600              0          0           0	
+            15           "Hexborn"            601              640              0          0           0	
+            16           "Hero"               641              680              0          0           0	
+            17           "Ascended"           681              720              0          0           0	
+            18           "Demigod"            721              760              0          0           0	
+            19           "Immortal"           761              800              0          0           0	
+            20           "God"                801              999              0          0           0	
+            21           "Hex"                1000             -1               0          0           0
 end
+
+
