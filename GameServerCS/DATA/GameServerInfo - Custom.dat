@@ -272,7 +272,7 @@ CustomJewelBankAutoDeposit_AL3 = 0
 ; Custom Reset Button
 ;==================================================
 CustomResetButtonSwitch = 1
-CustomMasterResetButtonSwitch = 1
+CustomMasterResetButtonSwitch = 0
 
 ;==================================================
 ; Custom Lucky Wheel
