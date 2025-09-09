@@ -3,40 +3,120 @@
 //=================================================================================================================
 0
 //Index   Year   Month   Day   DoW   Hour   Minute   Second
-0         *      *       *     *     *      10       0
+0         *      *       *     *     *      35       0
 end
 
 1
 //Index   Name                       AlarmTime   EventTime
-0         "Quiz"                        3           3
+0         "Quiz"                     3           3
 end
 
 
 //=================================================================================================================
 // Questions
 //=================================================================================================================
-//  ID  	->  Question ID
-//  WC 		->  Premiação em WCoinC
-//  WP      	->  Premiação em WCoinP
-//  GP      	->  Premiação em Goblin Point
-//  Question   	->  Pergunta
-//  Answer   	->  Resposta
-//=================================================================================================================
-// Obs: Evite usar respostas que possuem acentos. 
-//=================================================================================================================
-//=================================================================================================================
-//       #ID     #WC     #WP	 #GP         #Question				      		        #Answer		 
+//  ID   WC   WP   GP   Question                        Answer
 //=================================================================================================================
 2
-	  0      10       0       0	     "What's the server website?"				"hexmu.online"	
-	  1      10       0       0	     "10+2x2?"							"14"
-	  2      10       0       0	     "Qual o site do jogo?"					"www.seusite.com"
-	  3      10       0       0	     "Um dos maiores cientistas do mundo?"			"Albert Einstein"
-	  4      10       0       0	     "Quantas vezes o Brasil foi campeão mundial(futebol)?"	"5"
-	  5      10       0       0	     "Em que ano foi lançado o jogo Mu Online?"			"2003"
-	  6      10       0       0	     "Qual o nick exato do ADM do jogo?"			"TesteADM"
-	  7      10       0       0	     "Qual o nome exato do servidor?"				"Seu Servidor"
-	  8      10       0       0	     "Quando um jogador é novato, qual nome lhe damos?"		"Noob"
-	  9      10       0       0	     "Quantos estados tem o Brasil?"				"26"
-	  10     10       0       0	     "Em que continente fica localizada a Itália?"		"Continente Europeu"
+  0    10   0    0    "What is the server website?"    "hexmu.com"
+  1    10   0    0    "What is 10+2x2?"                 "14"
+  2    10   0    0    "What is the capital of France?"  "paris"
+  3    10   0    0    "What is the largest planet?"     "jupiter"
+  4    10   0    0    "What is the fastest land animal?" "cheetah"
+  5    10   0    0    "Who painted the Mona Lisa?"      "davinci"
+  6    10   0    0    "What is 2+2?"                    "4"
+  7    10   0    0    "What is the opposite of hot?"    "cold"
+  8    10   0    0    "What is the color of the sky?"   "blue"
+  9    10   0    0    "Who discovered gravity?"         "newton"
+  10   10   0    0    "What ocean is between USA and Europe?" "atlantic"
+  11   10   0    0    "What is the currency of Japan?"  "yen"
+  12   10   0    0    "What is the smallest prime number?" "2"
+  13   10   0    0    "Which planet has rings?"         "saturn"
+  14   10   0    0    "What is the largest mammal?"     "whale"
+  15   10   0    0    "Who is the king of pop?"         "jackson"
+  16   10   0    0    "What shape has 3 sides?"         "triangle"
+  17   10   0    0    "At what temperature does water freeze?" "0"
+  18   10   0    0    "Who wrote Hamlet?"               "shakespeare"
+  19   10   0    0    "What gas do we breathe?"         "oxygen"
+  20   10   0    0    "What is H2O?"                    "water"
+  21   10   0    0    "What is the fastest bird?"       "falcon"
+  22   10   0    0    "What is the capital of UK?"      "london"
+  23   10   0    0    "How many continents are there?"  "7"
+  24   10   0    0    "What is the biggest ocean?"      "pacific"
+  25   10   0    0    "What is the sun?"                "star"
+  26   10   0    0    "What is the Roman numeral for 10?" "x"
+  27   10   0    0    "What is the largest desert?"     "sahara"
+  28   10   0    0    "Who invented the lightbulb?"     "edison"
+  29   10   0    0    "What is Earth's satellite?"      "moon"
+  30   10   0    0    "Who created Ethereum?"     	"vitalik"
+  31   10   0    0    "What is the capital of Italy?"   "rome"
+  32   10   0    0    "What color is red+blue?"         "purple"
+  33   10   0    0    "What is the largest country?"    "russia"
+  34   10   0    0    "What is the smallest country?"   "vatican"
+  35   10   0    0    "What is the opposite of day?"    "night"
+  36   10   0    0    "What is the tallest mountain?"   "everest"
+  37   10   0    0    "What is the brain of computer?"  "cpu"
+  38   10   0    0    "Which planet is the red planet?" "mars"
+  39   10   0    0    "How many seconds in a minute?" 	"60"
+  40   10   0    0    "Who wrote Harry Potter?"         "rowling"
+  41   10   0    0    "What bird cannot fly?"           "ostrich"
+  42   10   0    0    "What is the fastest vehicle?"    "rocket"
+  43   10   0    0    "What organ pumps blood?"         "heart"
+  44   10   0    0    "How many planets are there?"     "8"
+  45   10   0    0    "What language is spoken in Brazil?" "portuguese"
+  46   10   0    0    "What is the square root of 9?"   "3"
+  47   10   0    0    "What is the national sport of Japan?" "sumo"
+  48   10   0    0    "What is the tallest animal?"     "giraffe"
+  49   10   0    0    "What is the chemical symbol for gold?" "au"
+  50   10   0    0    "How many days are in a leap year?" "366"
+  51   10   0    0    "What is the capital of Spain?"   "madrid"
+  52   10   0    0    "Who discovered America?"         "columbus"
+  53   10   0    0    "What is the boiling point of water in Celsius?" "100"
+  54   10   0    0    "What is the largest continent?"  "asia"
+  55   10   0    0    "What is the capital of Germany?" "berlin"
+  56   10   0    0    "What is the hardest natural substance?" "diamond"
+  57   10   0    0    "What is the capital of Canada?"  "ottawa"
+  58   10   0    0    "What is the largest island?"     "greenland"
+  59   10   0    0    "Who developed the theory of relativity?" "einstein"
+  60   10   0    0    "What is the main gas in air?"    "nitrogen"
+  61   10   0    0    "What is the largest river?"      "nile"
+  62   10   0    0    "What is the smallest ocean?"     "arctic"
+  63   10   0    0    "Who invented the telephone?"     "bell"
+  64   10   0    0    "What is the chemical symbol for iron?" "fe"
+  65   10   0    0    "What is the chemical symbol for silver?" "ag"
+  66   10   0    0    "What is the largest ocean animal?" "whale"
+  67   10   0    0    "What is the national bird of USA?" "eagle"
+  68   10   0    0    "What is the square root of 16?"  "4"
+  69   10   0    0    "How many hours in a day?"        "24"
+  70   10   0    0    "What planet is closest to the sun?" "mercury"
+  71   10   0    0    "What is the fastest ocean animal?" "sailfish"
+  72   10   0    0    "What organ is used for breathing?" "lungs"
+  73   10   0    0    "What is frozen water called?"    "ice"
+  74   10   0    0    "What color are bananas?"         "yellow"
+  75   10   0    0    "What is the opposite of up?"     "down"
+  76   10   0    0    "What is the opposite of left?"   "right"
+  77   10   0    0    "What do bees make?"              "honey"
+  78   10   0    0    "What do cows produce?"           "milk"
+  79   10   0    0    "What is the shape of Earth?"     "sphere"
+  80   10   0    0    "What is the largest organ of body?" "skin"
+  81   10   0    0    "What is the opposite of big?"    "small"
+  82   10   0    0    "What is the opposite of happy?"  "sad"
+  83   10   0    0    "What fruit is red and round?"    "apple"
+  84   10   0    0    "What fruit is long and yellow?"  "banana"
+  85   10   0    0    "What vegetable is orange?"       "carrot"
+  86   10   0    0    "What year did HexMU launch?"     "2025"
+  87   10   0    0    "What is the capital of USA?"     "washington"
+  88   10   0    0    "What color are emeralds?"        "green"
+  89   10   0    0    "What color are rubies?"          "red"
+  90   10   0    0    "What color are sapphires?"       "blue"
+  91   10   0    0    "What is the smallest planet?"    "mercury"
+  92   10   0    0    "What is the fastest growing plant?" "bamboo"
+  93   10   0    0    "What gas do plants release?"     "oxygen"
+  94   10   0    0    "What is the opposite of wet?"    "dry"
+  95   10   0    0    "What's the main feature of Zcash?"  "privacy"
+  96   10   0    0    "What's the token symbol for Zcash?" "zec"
+  97   10   0    0    "What is the main language of USA?" "english"
+  98   10   0    0    "What do you call baby dogs?"     "puppies"
+  99   10   0    0    "What do you call baby cats?"     "kittens"
+  100  10   0    0    "What is the opposite of open?"   "closed"
 end

@@ -4,7 +4,7 @@
 ; Enter type: 0 level, 1 reset, 2 master reset, 3 no check
 ;==================================================
 BloodCastleEvent = 1
-BloodCastleEnterType = 0
+BloodCastleEnterType = 1
 BloodCastleMaxUser = 10
 BloodCastleAllowPk = 1
 BloodCastleAllowSafeZoneBuff = 0
