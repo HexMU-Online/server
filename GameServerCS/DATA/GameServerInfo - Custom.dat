@@ -208,10 +208,10 @@ PickMessageSocketItem = 1
 ; Custom OffHelper
 ;==================================================
 CustomOffHelperSwitch = 1
-CustomOffHelperEnable_AL0 = 0
-CustomOffHelperEnable_AL1 = 0
-CustomOffHelperEnable_AL2 = 0
-CustomOffHelperEnable_AL3 = 0
+CustomOffHelperEnable_AL0 = 1
+CustomOffHelperEnable_AL1 = 1
+CustomOffHelperEnable_AL2 = 1
+CustomOffHelperEnable_AL3 = 1
 CustomOffHelperBuffDelay = 100
 CustomOffHelperHealDelay = 2000
 CustomOffHelperPotionDelay = 2000

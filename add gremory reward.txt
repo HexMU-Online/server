@@ -1,0 +1,35 @@
+DECLARE @StorageType int,@StorageNumber int,@ItemGroup int,@ItemID int,@ItemFinalIndex int,@ItemLevel int,@ItemDurability int,@ItemOption1 int,@ItemOption2 int,@ItemOption3 int,@ItemNewOption int,@ItemSetOption int,@ItemJoHOption int,@ItemOptionEx int,@ItemSocket1 int,@ItemSocket2 int,@ItemSocket3 int,@ItemSocket4 int,@ItemSocket5 int,@ItemDuration int,@DaysToUse int
+
+SET @StorageType = 2; -- 1: Storage Server 2: Storage Character
+SET @StorageNumber = 1; -- Check the CustomMessageGremory.txt (MAIN_INFO)
+SET @ItemGroup  = 7; -- Item.txt Group
+SET @ItemID   = 4; -- Item.txt Index
+SET @ItemLevel  = 15; -- Item Level
+SET @ItemDurability = 0; -- Item durability
+SET @ItemOption1 = 1; -- Item skill 0 - 1
+SET @ItemOption2 = 1; -- Item luck 0 - 1
+SET @ItemOption3 = 7; -- Item life option 0 - 7
+SET @ItemNewOption = 4; -- Item Excellent option 0 - 63
+SET @ItemSetOption = 0; -- Item Ancient option 5 -6 or 9 - 10
+SET @ItemJoHOption = 0; -- Item jewel of hamony
+SET @ItemOptionEx = 0; -- Item 380 option
+SET @ItemSocket1 = 255; -- Item socket 1 option 254 = empty slot, 255 = no slot 
+SET @ItemSocket2 = 255; -- Item socket 2 option 254 = empty slot, 255 = no slot 
+SET @ItemSocket3 = 255; -- Item socket 3 option 254 = empty slot, 255 = no slot 
+SET @ItemSocket4 = 255; -- Item socket 4 option 254 = empty slot, 255 = no slot 
+SET @ItemSocket5 = 255; -- Item socket 5 option 254 = empty slot, 255 = no slot 
+SET @ItemDuration = 0; -- Item socket duration 
+SET @DaysToUse  = 20; -- Days to use the item
+
+SET @ItemFinalIndex = (@ItemGroup*512) + @ItemID; 
+
+declare @v_time datetime = '1970-01-01 00:00:00';
+declare @v_date1 datetime = GETDATE();
+declare @v_date2 datetime = GETDATE() + @DaysToUse;
+declare @Final_date1 bigint
+declare @Final_date2 bigint
+
+select @Final_date1 = datediff(s, @v_time, @v_date1);
+select @Final_date2 = datediff(s, @v_time, @v_date2);
+
+EXEC WZ_GremoryCase_AddItem 'louismk','LuisADM',@StorageType,@StorageNumber,@ItemFinalIndex,@ItemLevel,@ItemDurability,@ItemOption1,@ItemOption2,@ItemOption3,@ItemNewOption,@ItemSetOption,@ItemJoHOption,@ItemOptionEx,@ItemSocket1,@ItemSocket2,@ItemSocket3,@ItemSocket4,@ItemSocket5,@ItemDuration,@Final_date1,@Final_date2
