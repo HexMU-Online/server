@@ -335,7 +335,7 @@
 511     "[MU King] Ends in %d minute (s)!"                                                                   
 512     ""                                                                                                   
 513     "Clean inventory successfully!"                                                                      
-514     "hexmu.com/discord"                                                                              
+514     "Join us on hexmu.com/discord "                                                                              
 515     "%s killed %s"                                                                                      
 516     "%s killed %s"                                                                                      
 517     ""                                                                                                   
