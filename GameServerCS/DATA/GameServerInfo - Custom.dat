@@ -317,7 +317,7 @@ CustomDailyRewardEnable_AL0 = 0
 CustomDailyRewardEnable_AL1 = 1
 CustomDailyRewardEnable_AL2 = 1
 CustomDailyRewardEnable_AL3 = 1
-CustomDailyRewardLevel = 0
+CustomDailyRewardLevel = 150
 CustomDailyRewardReset = 0
 CustomDailyRewardMasterReset = 0
 

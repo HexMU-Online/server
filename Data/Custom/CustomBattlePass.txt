@@ -2,7 +2,7 @@
 //Requirement
 0	
 	//Index   ReqLevel   ReqReset   ReqMasterReset   AccountLevel
-	0	  100        0          0                0
+	0	  150        0          0                0
 	1	  0          1          0                0
 	2	  0          5          0                0
 	3	  0          10         0                0
