@@ -1,37 +1,40 @@
 //=================================================================================================================
 //-- Combo to all Class System
-//-- Defina EnableComboToAllSwitch = 1 no common.dat para utilizar
+//-- Define EnableComboToAllSwitch = 1 no common.dat for user
 //-- Set EnableComboToAllSwitch = 1 in common.dat to enable
 //=================================================================================================================
 //-- Primary Skills
 //=================================================================================================================
-//	#SkillID - Veja no Skill.txt o ID da skill
+//	#SkillID - See Skill.txt to get Skill ID
 //=================================================================================================================
 0
-	17	//Energy Ball
-	19	//Falling Slash
-	20	//Lunge
-	21	//Uppercut
-	22	//Cyclone
-	23	//Slash
-	6	//Teleport
-	214	//Drain Life
+    1         //Poison
+    3         //Lightning
+    4         //Fire Ball
+    5         //Flame
+    6         //Teleport
+    7         //Ice
+    8         //Twister
+    9         //Evil Spirit
+    10        //Hell Fire
+    11        //Power Wave
 end
+
 //=================================================================================================================
-//-- Secundary and thirty Skills
+//-- Secondary and thirty Skills
 //=================================================================================================================
 //	#SkillID - See Skill.txt to get Skill ID
 //=================================================================================================================
 1
-	3	//Lightning
-	7	//Ice
-	12	//Aqua Beam
+    2         //Meteorite
+    3         //Lightning
+    4         //Fire Ball
+    5         //Flame
+    6         //Teleport
+    7         //Ice
+    8         //Twister
+    9         //Evil Spirit
+    10        //Hell Fire
+    11        //Power Wave
 	14	//Inferno
-	41	//Twisting Slash
-	42	//Rageful Blow
-	43	//Death Stab
-	45	//Mana Glaive
-	232	//Frozen Stab S6+
-	215	//Chain Lightning
-	230	//Red Storm
 end

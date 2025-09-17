@@ -741,7 +741,7 @@ JewelSocketPentagram = 1
 ; - 2: Combo with Two Skill
 ;==================================================
 EnableComboToAllSwitch = 1
-ComboToAllType = 0 
+ComboToAllType = 2
 
 ;==================================================
 ; Reward Online Users
