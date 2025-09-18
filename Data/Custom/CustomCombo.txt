@@ -8,16 +8,31 @@
 //	#SkillID - See Skill.txt to get Skill ID
 //=================================================================================================================
 0
-    1         //Poison
-    3         //Lightning
-    4         //Fire Ball
     5         //Flame
-    6         //Teleport
-    7         //Ice
-    8         //Twister
-    9         //Evil Spirit
-    10        //Hell Fire
-    11        //Power Wave
+    13        //Blast
+    39        //Ice Storm
+
+    19        //Falling Slash
+    20        //Lunge
+    21        //Uppercut
+    22        //Cyclone
+    23        //Slash
+    43        //Death Stab
+
+    24        //Triple Shot
+    46        //Starfall
+
+    57        //Spiral Slash
+    56        //Power Slash
+
+    60        //Force
+    66        //Force Wave
+
+    214       //Drain Life
+    215       //Chain Lightning
+
+    261       //Upper Beast
+    262       //Chain Drive
 end
 
 //=================================================================================================================
@@ -26,15 +41,30 @@ end
 //	#SkillID - See Skill.txt to get Skill ID
 //=================================================================================================================
 1
-    2         //Meteorite
-    3         //Lightning
-    4         //Fire Ball
-    5         //Flame
-    6         //Teleport
-    7         //Ice
-    8         //Twister
-    9         //Evil Spirit
     10        //Hell Fire
-    11        //Power Wave
-	14	//Inferno
+    14        //Inferno
+    38        //Decay
+
+    41        //Twisting Slash
+    42        //Rageful Blow
+
+    51        //Ice Arrow
+    52        //Penetration
+
+    55        //Fire Slash
+    236       //Sword Slash
+    237       //Lightning Storm
+
+    61        //Fire Burst
+    78        //Fire Scream
+
+    79        //Explosion
+    216       //Electric Surge
+    223       //Sahamutt
+    224       //Neil
+    225       //Ghost Phantom
+
+    263       //Dark Side
+    265       //Dragon Slayer
+    269       //Charge
 end
