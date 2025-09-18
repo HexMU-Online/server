@@ -237,7 +237,7 @@ EventKillAllAutoReward3Rank3 = 30
 ;==================================================
 ; Event Team vs Team
 ;==================================================
-EventTvtSwitch = 1
+EventTvtSwitch = 0
 EventTvtNpc = 380
 EventTvtNpcMap = 0
 EventTvtNpcX = 130
@@ -248,7 +248,7 @@ EventTvtMaxUsers = 20
 ;==================================================
 ; Event Guild vs Guild
 ;==================================================
-EventGvGSwitch = 1
+EventGvGSwitch = 0
 EventGvGNpc = 380
 EventGvGNpcMap = 0
 EventGvGNpcX = 130
