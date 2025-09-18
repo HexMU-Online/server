@@ -18,7 +18,7 @@ end
 //  ID   WC   WP   GP   Question                        Answer
 //=================================================================================================================
 2
-  0    10   0    0    "What is the server website?"    "hexmu.com"
+  0    10   0    0    "What is the server website?"     "hexmu.com"
   1    10   0    0    "What is 10+2x2?"                 "14"
   2    10   0    0    "What is the capital of France?"  "paris"
   3    10   0    0    "What is the largest planet?"     "jupiter"

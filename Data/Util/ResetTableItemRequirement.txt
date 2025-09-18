@@ -1,5 +1,22 @@
 //MinReset   MaxReset   ItemIndex   ItemLevel   ItemAmount
-// 10	     1000       6159        *           5 		// chaos
-10	     1000	7182        *           5		// soul
-10	     1000       7181        *           5		// bless
+5	     10		7182        *           5		// Jewel of Soul
+5	     10        	7181        *           5		// Jewel of Bless
+
+10	     100	6159        *           1		// Jewel of Chaos
+10	     100	7184        *           1		// Jewel of Life
+10	     100	7190        *           1		// Jewel of Creation
+10	     100	7182        *           5		// Jewel of Soul
+10	     100        7181        *           5		// Jewel of Bless
+
+100	     500	6159        *           5		// Jewel of Chaos
+100	     500	7184        *           5		// Jewel of Life
+100	     500	7190        *           5		// Jewel of Creation
+100	     500	7182        *           10		// Jewel of Soul
+100	     500        7181        *           10		// Jewel of Bless
+
+500	     1000	6159        *           10		// Jewel of Chaos
+500	     1000	7184        *           10		// Jewel of Life
+500	     1000	7190        *           10		// Jewel of Creation
+500	     1000	7182        *           20		// Jewel of Soul
+500	     1000       7181        *           20		// Jewel of Bless
 end
