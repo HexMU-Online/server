@@ -1,11 +1,12 @@
 //Type: 0 - entrance, 1 - shield, 2 - dialog, 3 - hammer, 4 - potion, 5 - storage
 
 //Index   Group   Type   X      Y      Text
+// lorencia
 0         1       5      141    145    "Storage"
 0         1       2      147    147    "Lahap Quest Giver"
 0         1       2      130    128    "BK Buffer"
+0         1       2      168    96     "DL Buffer"
 0         1       2      127    144    "Chaos Card Master"
-
 0         0       0      121    232    "Dungeon Entrance"
 0         0       0      1      38     "Entrance to Devias"
 0         0       0      216    248    "Entrance to Noria"
@@ -17,13 +18,21 @@
 0         1       3      116    141    "Hanzo the Blacksmith"
 0         1       4      123    135    "Lumen the Barmaid"
 0         1       4      118    113    "Pasi the Mage"
-
+0         1       2      151    112    "Gens Duprian"
+0         1       2      73    	101    "Lucky Coin Exchange"
 0         1       5      146    110    "Storage"
-0         1       1      96     129    "Shadow Phantom Soldier"
-0         1       1      132    165    "Shadow Phantom Soldier"
-0         1       1      132    90     "Shadow Phantom Soldier"
-0         1       1      170    129    "Shadow Phantom Soldier"
-0         1       2      144    127    "Gens Duprian Steward"
+// lorencia spots
+0         1       1      186    123    "Spider Spot"
+0         1       1      200    151    "Budge Dragon Spot"
+0         1       1      138    78     "Bull Fighter Spot"
+0         1       1      156    76     "Budge Dragon Spot"
+0         1       1      87     134    "Hound Spot"
+0         1       1      72     118    "Elite Bull Fighter Spot"
+0         1       1      47     76     "Giants Spot"
+0         1       1      134    182    "Skeleton Spot"
+0         1       1      139    216    "Lich Mega Spot"
+0         1       1      10     142    "Skeleton Mega Spot"
+
 1         0       0      108    249    "Entrance to Lorencia"
 1         0       0      238    150    "Entrance to Dungeon2"
 1         0       0      232    128    "Entrance to Dungeon1"
@@ -49,20 +58,30 @@
 2         1       2      204    61     "Mercenary Guild Manager"
 2         1       2      240    53     "Lesnar"
 2         1       2      183    32     "Sebina the Priest"
+
+// noria
 3         0       0      151    2      "Entrance to Lorencia"
 3         0       0      222    29     "Entrance to Aida"
 3         0       0      242    241    "Entrance to Atlans"
-3         1       2      171    105    "Charon"
+3         1       2      171    108    "Devil Square"
 3         1       4      173    125    "Elf Lala"
 3         1       3      195    124    "Eo the Craftsman"
-3         1       5      172    96     "Storage"
+3         1       5      174    94     "Storage"
 3         1       2      180    103    "Chaos Goblin"
-3         1       1      167    118    "Shadow Phantom Soldier"
-3         1       1      166    85     "Shadow Phantom Soldier"
-3         1       1      201    129    "Shadow Phantom Soldier"
-3         1       2      167    100    "Gens Vanert Steward"
-3         1       2      196    113    "Slove Captain"
-3         1       2      183    126    "Lesnar"
+3         1       2      167    100    "Gens Vanert"
+3         1       2      196    113    "Captain Slough Archeron"
+3         1       2      181    126    "Cherry Blossom Spirit"
+3         1       2      182    115    "ELF Buffer"
+//3         1       2      183    126    "Lesnar"
+
+// noria spots
+0         1       1      149    67     "Goblin Spot"
+0         1       1      176    73     "Chain Scorpion Spot"
+0         1       1      148    107    "Beetle Spot"
+0         1       1      145    131    "Hunter Spot"
+0         1       1      219    138    "Stone Golem Spot"
+0         1       1      196    156    "Elite Goblin Spot"
+
 4         0       0      164    0      "Entrance to Devias"
 4         0       0      190    5      "Entrance to LostTower2"
 4         0       0      165    165    "Entrance to LostTower3"

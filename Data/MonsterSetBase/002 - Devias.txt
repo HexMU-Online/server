@@ -25,7 +25,8 @@
 375	2	0	182	29	3       // Chaos Card Master	
 236	2	0	226	66	1       // Golden Archer
 522	2	0	210	64	1	// Adviser Jerinte							
-//584	2	0	240	53	7       // Sir.Lesnar  
+//584	2	0	240	53	7       // Sir.Lesnar
+566	2	0	204	61	1       // Gyro Rogue Traders
 end
 
 
