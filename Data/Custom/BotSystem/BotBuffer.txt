@@ -11,7 +11,7 @@
 //BotIndex	Class	Enabled	 ColorName	Zen	PCPoint	MaxLvl	   Name		Map	X	Y	Dir
 1
 0		34	1	    0		100	0	400	"ELF Buffer"	3	182	115	3
-1		2	1	    0		100	0	400	"BufferSoul"	0	143	118	2
+1		2	1	    0		100	0	400	"SM Buffer"	2	191	17	3
 2		18	1	    0		100	0	400	"BK Buffer"	0	130	128	3
 3		82	1	    0		100	0	400	"BufferSUMN"	0	139	118	2
 4		66	1	    0		100	0	400	"DL Buffer"	0	168	96	1

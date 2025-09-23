@@ -3,30 +3,26 @@
 //=========================================================================================================================================
 0
 //Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
-244	2	0	226	25	3       // NPC_Barmaid 
-245	2	0	225	41	3       // NPC_Wizard 
-246	2	0	186	47	3       // NPC_WeaponMerchant 
-247	2	20	169	45	7       // NPC_CrossbowGuard 
-247	2	20	219	79	5       // NPC_CrossbowGuard 
-478	2	0	191	17	3       // NPC_Delgado 
-257	2	0	219	76	3       // NPC_Buff Elf 
-241	2	0	215	45	1       // NPC_GuildMaster 
-240	2	0	218	63	2       // NPC_Valut_Guard 
-248     2       0       9       77      3       // Florence Peddler
-229	2   	0  	207    	42 	3       // Marlon
-233	2	0	209	30	1       // Spirit of Archangel
-233	2	0	219	9	3       // Spirit of Archangel 
-235	2	0	183	32	3       // NPC_PriestSevina 
-376	2	0	225	60	2       // Pamela the Supplier
-377	2	0	203	46	3       // Angela the Supplier
-379	2	0	11	26	3       // Fireworks Girl
-379     2       0       31      30      3       // Fireworks Girl
-385	2	0	224	52	1       // Alchemist
-375	2	0	182	29	3       // Chaos Card Master	
-236	2	0	226	66	1       // Golden Archer
-522	2	0	210	64	1	// Adviser Jerinte							
-//584	2	0	240	53	7       // Sir.Lesnar
-566	2	0	204	61	1       // Gyro Rogue Traders
+257	       2	      0		 219		76	       3	      // Shadow Phantom Soldier
+257	       2	      0		 172		44	       1	      // Shadow Phantom Soldier
+249	       2	      5		 167		40	       7	      // Guard
+235	       2	      0	 	 183		32	       3	      // Sebina the Priest
+246	       2	      0	 	 186		47	       3	      // Weapons Merchant Zienna
+229	       2	      0	 	 203    	46	       3	      // Marlon
+385	       2	      0	 	 226    	52	       1	      // Illusion Temple
+241	       2	      0	 	 215    	45	       1	      // Guild Master
+376	       2	      0	 	 225    	60	       2	      // Pamela the Supplier
+244	       2	      0	 	 226    	25	       3	      // Caren the Barmaid
+245	       2	      0	 	 225    	41	       3	      // Wizard Izabel
+233	       2	      0	 	 209    	29	       2	      // Blood Castle
+240	       2	      0	 	 218    	63	       2	      // Storage
+522	       2	      0	 	 229		221	       1	      // Gaion Entrance
+248	       2	      0	 	 9		77	       3	      // Wandering Merchant Martin
+249	       2	      5		 219		79	       5	      // Guard 
+249	       2	      5	 	 12		74	       5	      // Guard 
+379	       2	      0	 	 11		26	       3	      // Fireworks Girl
+379	       2	      0	 	 32		31	       2	      // Fireworks Girl
+566	       2	      0	 	 204		61	       1	      // Tercia Quest Giver
 end
 
 
@@ -45,6 +41,12 @@ end
 020            02             30         005            050            050          155          -1             20            //Elite Yeti
 020            02             30         006            184            080          244          -1             10            //Elite Yeti
 025            02             30         006            184            080          244          -1             03            //Ice Queen
+
+024            02             4          239            83             241          85           -1             5             //Worm
+021            02             4          230            124            232          126          -1             7             //Assassin
+023            02             4          177            111            179          113          -1             7             //Hommerd
+022            02             4          210            160            212          162          -1             7             //Ice Monster
+019            02             4          229            190            231          192          -1             7             //Yeti
 end
 
 //=========================================================================================================================================
