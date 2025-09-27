@@ -76,8 +76,6 @@ end
 //=========================================================================================================================================
 2
 //Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
-008            01             30         050            123            -1             //Poison Bull Fighter
-008            01             30         042            122            -1             //Poison Bull Fighter
 008            01             30         004            073            -1             //Poison Bull Fighter
 008            01             30         012            056            -1             //Poison Bull Fighter
 008            01             30         002            078            -1             //Poison Bull Fighter
@@ -184,7 +182,6 @@ end
 008            01             30         119            047            -1             //Poison Bull Fighter
 009            01             30         022            090            -1             //Thunder Lich
 009            01             30         033            078            -1             //Thunder Lich
-008            01             30         025            100            -1             //Poison Bull Fighter
 016            01             30         029            080            -1             //Chief Skeleton Warrior
 009            01             30         042            117            -1             //Thunder Lich
 010            01             30         014            107            -1             //Dark Knight
@@ -314,8 +311,6 @@ end
 009            01             30         221            014            -1             //Thunder Lich
 009            01             30         243            016            -1             //Thunder Lich
 009            01             30         233            066            -1             //Thunder Lich
-008            01             30         039            112            -1             //Poison Bull Fighter
-008            01             30         026            111            -1             //Poison Bull Fighter
 008            01             30         015            113            -1             //Poison Bull Fighter
 008            01             30         012            097            -1             //Poison Bull Fighter
 008            01             30         044            056            -1             //Poison Bull Fighter

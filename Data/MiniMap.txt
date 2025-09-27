@@ -62,15 +62,20 @@
 2         1       2      191    17     "SM Buffer"
 // devias spots
 2         1       1      240    84     "Worm Spot"
+2         1       1      164    15     "Worm Spot"
+
 2         1       1      231    125    "Assasin Spot"
+2         1       1      118    49     "Assasin Spot"
 2         1       1      178    112    "Hommerd Spot"
 2         1       1      211    161    "Ice Monster Spot"
 2         1       1      230    191    "Yeti Spot"
 2         1       1      215    214    "Elite Yeti Spot"
 2         1       1      237    215    "Elite Yeti Spot"
+2         1       1      64     17     "Elite Yeti Spot"
+2         1       1      59     64     "Mega Yeti Spot"
 2         1       1      199    238    "Mega Yeti Spot"
 2         1       2      240    237    "Danger!"
-2         1       2      14     11     "Danger!
+2         1       2      14     11     "Danger!"
 
 // noria
 3         0       0      151    2      "Entrance to Lorencia"
