@@ -48,7 +48,6 @@
 2         0       0      51     92     "Entrance to Raklion"
 2         1       3      186    47     "Weapons Merchant Zienna"
 2         1       2      183    32     "Sebina the Priest"
-2         1       2      203    46     "Marlon"
 2         1       5      218    63     "Storage"
 2         1       2      215    45     "Guild Master"
 2         1       3      225    41     "Wizard Izabel"
@@ -60,6 +59,7 @@
 2         1       2      204    61     "Tercia Quest Giver"
 2         1       2      226    52     "Illusion Temple"
 2         1       2      191    17     "SM Buffer"
+2         1       2      209    14     "RF Buffer"
 // devias spots
 2         1       1      240    84     "Worm Spot"
 2         1       1      164    15     "Worm Spot"
@@ -108,9 +108,14 @@
 4         0       0      129    14     "Entrance to LostTower6"
 4         0       0      4      7      "Entrance to LostTower7"
 4         0       0      16     250    "Entrance to Icarus"
+
+// atlans spots
+
+// atlans
 7         0       0      8      8      "Entrance to Noria"
 7         0       0      9      18     "Entrance to Elbeland"
 7         0       0      10     228    "Entrance to Tarkan"
+
 8         0       0      250    40     "Entrance to Atlans"
 8         0       0      3      199    "Entrance to Kanturu_ruin"
 10        0       0      13     8      "Entrance to LostTower"
@@ -132,21 +137,22 @@
 38        0       0      66     105    "Entrance to Kanturu_ruin"
 38        0       0      141    186    "Entrance Equipment"
 41        1       2      119    168    "Gatekeeper"
+// elbeland
 51        0       0      248    149    "Entrance to Atlans"
 51        0       0      19     27     "Entrance to Devias"
-51        1       2      37     241    "Lahap"
-51        1       4      44     229    "Potion Merchant Silvia"
+51        1       4      44     229    "Merchant Silvia"
 51        1       3      29     236    "Weapons Merchant Rhea"
-51        1       4      36     219    "Magic Shop Marce"
-51        1       1      43     191    "Shadow Phantom Soldier"
-51        1       1      57     232    "Shadow Phantom Soldier"
-51        1       1      73     220    "Shadow Phantom Soldier"
+51        1       4      36     219    "Magic Marce"
 51        1       5      50     229    "Storage"
-51        1       2      55     243    "Mirage"
-51        1       2      46     243    "Seed Master"
+51        1       2      41     242    "Seed Master"
 51        1       2      50     243    "Seed Researcher"
-51        1       2      22     225    "Molt"
 51        1       2      20     214    "David"
+51        1       2      49     216    "Doppelganger"
+51        1       2      64     206    "SUM Buffer"
+// elbeland spots
+51        1       1      110    212     "Strange Rabbit Spot"
+51        1       1      50     155     "Polluted Butterfly Spot"
+
 56        0       0      139    125    "Entrance to Hunting Ground(1)"
 56        0       0      124    109    "Entrance to Hunting Ground(2)"
 56        0       0      140    95     "Entrance to Hunting Ground(3)"

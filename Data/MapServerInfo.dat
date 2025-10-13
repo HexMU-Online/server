@@ -1,7 +1,7 @@
 0
 //ServerCode   MapServerGroup   InitSetVal   IpAddress         Port
-11	       0	        1	     S192.168.0.69	       55901
-19	       0	        0	     S192.168.0.69	       55919
+11	       0	        1	     S192.168.1.69	       55901
+19	       0	        0	     S192.168.1.69	       55919
 end
 
 1
