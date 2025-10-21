@@ -110,7 +110,10 @@
 4         0       0      16     250    "Entrance to Icarus"
 
 // atlans spots
-
+7         1       1      45     38     "Bahamut Spot"
+7         1       1      78     21     "Vepar Spot"
+7         1       1      48     69     "Valkyrie Spot"
+7         1       1      25     118    "Bahamut Mega Spot"
 // atlans
 7         0       0      8      8      "Entrance to Noria"
 7         0       0      9      18     "Entrance to Elbeland"
