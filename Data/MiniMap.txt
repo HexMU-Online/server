@@ -152,6 +152,8 @@
 // elbeland spots
 51        1       1      110    212     "Strange Rabbit Spot"
 51        1       1      50     155     "Polluted Butterfly Spot"
+51        1       1      175    177     "Totem Golem Spot"
+51        1       1      221    140     "Totem Golem Spot"
 
 56        0       0      139    125    "Entrance to Hunting Ground(1)"
 56        0       0      124    109    "Entrance to Hunting Ground(2)"
