@@ -223,28 +223,14 @@ end
 048            07             30         219            133            -1             //Lizard King
 048            07             30         226            134            -1             //Lizard King
 052            07             30         224            142            -1             //Silver Valkyrie
-048            07             30         226            154            -1             //Lizard King
-048            07             30         221            150            -1             //Lizard King
-048            07             30         220            168            -1             //Lizard King
-048            07             30         232            166            -1             //Lizard King
-048            07             30         231            176            -1             //Lizard King
-048            07             30         217            197            -1             //Lizard King
-048            07             30         215            182            -1             //Lizard King
 049            07             30         211            192            -1             //Hydra
 049            07             30         229            203            -1             //Hydra
-052            07             30         208            183            -1             //Silver Valkyrie
 052            07             30         215            174            -1             //Silver Valkyrie
-048            07             30         222            190            -1             //Lizard King
-048            07             30         229            190            -1             //Lizard King
 052            07             30         230            181            -1             //Silver Valkyrie
 052            07             30         226            161            -1             //Silver Valkyrie
-052            07             30         208            198            -1             //Silver Valkyrie
 048            07             30         232            206            -1             //Lizard King
 048            07             30         231            196            -1             //Lizard King
 048            07             30         223            202            -1             //Lizard King
-048            07             30         224            184            -1             //Lizard King
-048            07             30         230            171            -1             //Lizard King
-048            07             30         221            158            -1             //Lizard King
 048            07             30         233            124            -1             //Lizard King
 048            07             30         232            102            -1             //Lizard King
 052            07             30         200            103            -1             //Silver Valkyrie
