@@ -116,9 +116,13 @@
 7         1       1      25     118    "Bahamut Mega Spot"
 7         1       1      240    51     "Great Bahamut Spot"
 7         1       1      239    13     "Great Bahamut Spot"
+7         1       1      222    187    "Great Bahamut Mega Spot"
 7         1       1      188    23     "Valkyrie Mega Spot"
 7         1       1      29     166    "Silver Valkyrie Spot"
 7         1       1      81     139    "Silver Valkyrie Spot"
+7         1       1      219    101    "Silver Valkyrie Spot"
+7         1       1      169    145    "Lizard King Mega Spot"
+7         1       1      44     223    "Lizard King Spot"
 // atlans
 7         0       0      8      8      "Entrance to Noria"
 7         0       0      9      18     "Entrance to Elbeland"
