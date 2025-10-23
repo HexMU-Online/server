@@ -100,6 +100,7 @@
 3         1       1      219    138    "Stone Golem Spot"
 3         1       1      196    156    "Elite Goblin Spot"
 
+// lost tower
 4         0       0      164    0      "Entrance to Devias"
 4         0       0      190    5      "Entrance to LostTower2"
 4         0       0      165    165    "Entrance to LostTower3"
@@ -108,6 +109,12 @@
 4         0       0      129    14     "Entrance to LostTower6"
 4         0       0      4      7      "Entrance to LostTower7"
 4         0       0      16     250    "Entrance to Icarus"
+// lost tower spots
+4         1       1      195    105    "Shadow Spot"
+4         1       1      206    47     "Shadow Spot"
+4         1       1      201    216    "Shadow Mega Spot"
+4         1       1      98     172    "Cursed Wizard Spot"
+4         1       1      101    222    "Death Cow Spot"
 
 // atlans spots
 7         1       1      45     38     "Bahamut Spot"
