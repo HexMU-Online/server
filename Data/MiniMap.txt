@@ -115,6 +115,10 @@
 4         1       1      201    216    "Shadow Mega Spot"
 4         1       1      98     172    "Cursed Wizard Spot"
 4         1       1      101    222    "Death Cow Spot"
+4         1       1      110    88     "Death Cow Spot"
+4         1       1      119    111    "Devil Spot"
+4         1       1      129    35     "Death Knight Spot"
+4         1       1      98     26     "Death Knight Spot"
 
 // atlans spots
 7         1       1      45     38     "Bahamut Spot"
