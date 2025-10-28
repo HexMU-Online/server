@@ -146,10 +146,20 @@
 7         0       0      8      8      "Entrance to Noria"
 7         0       0      9      18     "Entrance to Elbeland"
 7         0       0      10     228    "Entrance to Tarkan"
-
+// tarkan
 8         0       0      250    40     "Entrance to Atlans"
 8         0       0      3      199    "Entrance to Kanturu_ruin"
+// tarkan spots
+8         1       1      153    42     "Mutant Spot"
+8         1       1      133    17     "Mutant Spot"
+8         1       1      179    112    "Mutant Spot"
+8         1       1      154    150    "Mutant Spot"
+8         1       1      157    118    "Bloody Wolf Spot"
+8         1       2      172    92     "Danger!"
+// icarus
 10        0       0      13     8      "Entrance to LostTower"
+// icarus spots
+
 31        0       0      60     8      "Entrance to Valley of Loren"
 33        0       0      72     10     "Entrance to Noria"
 33        0       0      238    165    "Entrance to Karutan"
