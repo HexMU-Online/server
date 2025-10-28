@@ -119,6 +119,9 @@
 4         1       1      119    111    "Devil Spot"
 4         1       1      129    35     "Death Knight Spot"
 4         1       1      98     26     "Death Knight Spot"
+4         1       1      54     10     "Death Knight Spot"
+4         1       1      54     26     "Devil Spot"
+4         1       1      28     41     "Death Knight Mega Spot"
 
 // atlans spots
 7         1       1      45     38     "Bahamut Spot"
