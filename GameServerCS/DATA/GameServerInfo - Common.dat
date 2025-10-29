@@ -80,7 +80,7 @@ CharacterCloseCount = 1 ;NEW LINE min value 1
 ; MonsterTopHitDamageReset = Reset top damage when the player die
 ; MonsterTopHitDamageTime = Maximum time that damage will be counted (default 30)
 ;==================================================
-MonsterLifeRate = 100
+MonsterLifeRate = 150
 MonsterTopHitDamageReset = 0
 MonsterTopHitDamageTime = 30
 MonsterTopHitDamageClientSide = 1
