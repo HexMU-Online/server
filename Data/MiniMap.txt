@@ -155,6 +155,11 @@
 8         1       1      179    112    "Mutant Spot"
 8         1       1      154    150    "Mutant Spot"
 8         1       1      157    118    "Bloody Wolf Spot"
+8         1       1      109    85     "Bloody Wolf Spot"
+8         1       1      94     29     "Bloody Wolf Spot"
+8         1       1      67     62     "Iron Wheel Spot"
+8         1       1      39     60     "Iron Wheel Spot"
+8         1       1      20     94     "Iron Wheel Spot"
 8         1       2      172    92     "Danger!"
 // icarus
 10        0       0      13     8      "Entrance to LostTower"
