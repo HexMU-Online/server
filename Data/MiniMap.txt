@@ -167,7 +167,9 @@
 8         1       1      87     200    "Beam Knight Spot"
 8         1       1      106    229    "Beam Knight Spot"
 8         1       1      155    231    "Death Beam Knight"
+8         1       1      27     228    "Tantalos Mega Spot"
 8         1       2      172    92     "Danger!"
+8         1       2      8      243    "Danger!"
 // icarus
 10        0       0      13     8      "Entrance to LostTower"
 // icarus spots
