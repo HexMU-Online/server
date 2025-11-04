@@ -99,6 +99,7 @@
 3         1       1      145    131    "Hunter Spot"
 3         1       1      219    138    "Stone Golem Spot"
 3         1       1      196    156    "Elite Goblin Spot"
+3         1       2      221    42     "Danger!"
 
 // lost tower
 4         0       0      164    0      "Entrance to Devias"
@@ -175,10 +176,19 @@
 // icarus spots
 
 31        0       0      60     8      "Entrance to Valley of Loren"
-33        0       0      72     10     "Entrance to Noria"
-33        0       0      238    165    "Entrance to Karutan"
+
+// aida
+33        0       0      238    165    "Karutan"
 33        1       2      78     13     "Osbourne"
 33        1       2      86     13     "Jerridon"
+33        0       0      69     9      "Noria"
+// aida spots
+33        1       1      126    29     "Death Tree Spot"
+33        1       1      154    48     "Death Tree Spot"
+33        1       1      168    81     "Forest Orc Spot"
+33        1       1      213    34     "Forest Orc Mega Spot"
+33        1       1      226    13     "Death Rider Mega Spot"
+
 34        0       0      238    42     "Entrance to Valley of Loren"
 34        1       2      228    48     "Apostle Devin"
 34        1       2      62     239    "Werewolf Quarel"
