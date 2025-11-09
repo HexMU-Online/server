@@ -23,6 +23,8 @@ end
 307            33             6          186            97             188          99           -1             7             //Forest Orc
 306            33             6          229            40             231          42           -1             7             //Death Rider
 305            33             6          231            116            233          118          -1             7             //Blue Golem
+305            33             6          192            149            194          151          -1             7             //Blue Golem
+305            33             6          175            125            177          127          -1             7             //Blue Golem
 
 306            33             6          225            12             227          14           -1             8             //Death Rider
 307            33             6          212            33             214          35           -1             8             //Forest Orc
@@ -42,13 +44,11 @@ end
 304            33             30         137            125            -1             //Witch Queen
 304            33             30         141            076            -1             //Witch Queen
 305            33             30         081            080            -1             //Blue Golem
-305            33             30         083            121            -1             //Blue Golem
 305            33             30         088            062            -1             //Blue Golem
 305            33             30         092            045            -1             //Blue Golem
 305            33             30         092            086            -1             //Blue Golem
 305            33             30         094            158            -1             //Blue Golem
 305            33             30         094            158            -1             //Blue Golem
-305            33             30         095            150            -1             //Blue Golem
 305            33             30         102            175            -1             //Blue Golem
 305            33             30         104            042            -1             //Blue Golem
 305            33             30         104            160            -1             //Blue Golem
@@ -156,7 +156,6 @@ end
 308            33             30         222            075            -1             //Death Tree
 308            33             30         223            130            -1             //Death Tree
 308            33             30         228            111            -1             //Death Tree
-309            33             30         108            147            -1             //Hell Maine
 309            33             30         112            047            -1             //Hell Maine
 309            33             30         123            103            -1             //Hell Maine
 306            33             30         228            017            -1             //Death Rider
@@ -265,7 +264,6 @@ end
 306            33             30         090            203            -1             //Death Rider
 305            33             30         117            073            -1             //Blue Golem
 305            33             30         114            101            -1             //Blue Golem
-305            33             30         086            155            -1             //Blue Golem
 305            33             30         230            132            -1             //Blue Golem
 551            33             30         199            207            -1             //Bloody Golem
 551            33             30         218            232            -1             //Bloody Golem

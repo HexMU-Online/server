@@ -191,6 +191,9 @@
 33        1       1      226    13     "Death Rider Mega Spot"
 33        1       1      230    41     "Death Rider Spot"
 33        1       1      232    117    "Blue Golem Spot"
+33        1       1      193    150    "Blue Golem Spot"
+33        1       1      176    126    "Blue Golem Spot"
+
 33        1       2      232    148    "Danger!"
 
 34        0       0      238    42     "Entrance to Valley of Loren"
