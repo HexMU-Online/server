@@ -167,13 +167,27 @@
 8         1       1      120    195    "Tantalos Spot"
 8         1       1      87     200    "Beam Knight Spot"
 8         1       1      106    229    "Beam Knight Spot"
-8         1       1      155    231    "Death Beam Knight"
+8         1       2      155    231    "Death Beam Knight"
 8         1       1      27     228    "Tantalos Mega Spot"
 8         1       2      172    92     "Danger!"
 8         1       2      8      243    "Danger!"
 // icarus
 10        0       0      13     8      "Entrance to LostTower"
 // icarus spots
+10        1       1      12     40     "Alquamos Spot"
+10        1       1      58     25     "Alquamos Spot"
+10        1       1      89     32     "Mega Crust Spot"
+10        1       1      95     70     "Mega Crust Spot"
+10        1       1      85     85     "Queen Rainier Spot"
+10        1       1      61     85     "Queen Rainier Spot"
+10        1       1      27     67     "Drakan Spot"
+10        1       1      42     83     "Drakan Spot"
+10        1       1      28     101    "Alpha Crust Spot"
+10        1       1      52     122    "Phantom Knight Spot"
+10        1       1      59     157    "Phantom Knight Spot"
+10        1       1      56     200    "Great Drakan Spot"
+10        1       1      42     174    "Great Drakan Spot"
+10        1       2      36     228    "Phoenix of Darkness"
 
 31        0       0      60     8      "Entrance to Valley of Loren"
 
@@ -204,7 +218,7 @@
 33        1       1      33     223    "Bloody Witch Queen Spot"
 33        1       1      55     125    "Bloody Witch Queen Spot"
 33        1       1      39     54     "Bloody Mega Spot"
-33        1       1      119    107    "Hell Maine"
+33        1       2      119    107    "Hell Maine"
 33        1       2      232    148    "Danger!"
 
 34        0       0      238    42     "Entrance to Valley of Loren"
