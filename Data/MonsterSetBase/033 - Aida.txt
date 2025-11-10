@@ -144,13 +144,9 @@ end
 307            33             30         233            125            -1             //Forest Orc
 307            33             30         234            111            -1             //Forest Orc
 307            33             30         236            135            -1             //Forest Orc
-308            33             30         136            023            -1             //Death Tree
-308            33             30         150            046            -1             //Death Tree
-308            33             30         157            023            -1             //Death Tree
 308            33             30         158            010            -1             //Death Tree
 308            33             30         162            070            -1             //Death Tree
 308            33             30         164            018            -1             //Death Tree
-308            33             30         166            048            -1             //Death Tree
 308            33             30         174            023            -1             //Death Tree
 308            33             30         177            016            -1             //Death Tree
 308            33             30         189            038            -1             //Death Tree
