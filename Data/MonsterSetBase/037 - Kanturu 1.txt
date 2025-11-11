@@ -20,6 +20,15 @@
 356            37             6          36             31             38           33           -1             7             //Gigantis
 357            37             6          48             74             50           76           -1             7             //Genocider
 357            37             6          58             82             60           84           -1             7             //Genocider
+
+553            37             6          49             149            51           151          -1             7             //Berserker Warrior
+553            37             6          123            165            125          167          -1             7             //Berserker Warrior
+554            37             6          70             127            72           129          -1             7             //Kentauros Warrior
+554            37             6          144            144            146          146          -1             7             //Kentauros Warrior
+555            37             6          154            121            156          123          -1             7             //Gigantis Warrior
+555            37             6          99             110            101          112          -1             7             //Gigantis Warrior
+556            37             6          127            80             129          82           -1             7             //Genocider Warrior
+556            37             6          190            92             192          94           -1             7             //Genocider Warrior
 end
 //=========================================================================================================================================
 // MONSTERS
@@ -33,11 +42,8 @@ end
 351            37             30         159            232            -1             //Splinter Wolf
 350            37             30         154            041            -1             //Berserker
 351            37             30         118            232            -1             //Splinter Wolf
-351            37             30         075            231            -1             //Splinter Wolf
 351            37             30         069            238            -1             //Splinter Wolf
 351            37             30         174            196            -1             //Splinter Wolf
-351            37             30         094            234            -1             //Splinter Wolf
-351            37             30         100            240            -1             //Splinter Wolf
 351            37             30         114            239            -1             //Splinter Wolf
 351            37             30         135            223            -1             //Splinter Wolf
 351            37             30         143            239            -1             //Splinter Wolf

@@ -253,6 +253,15 @@
 37        1       1      49     75     "Genocider Spot"
 37        1       1      59     83     "Genocider Spot"
 
+37        1       1      50     150    "Berserker Warrior Spot"
+37        1       1      124    166    "Berserker Warrior Spot"
+37        1       1      71     128    "Kentauros Warrior Spot"
+37        1       1      145    145    "Kentauros Warrior Spot"
+37        1       1      155    122    "Gigantis Warrior Spot"
+37        1       1      100    111    "Gigantis Warrior Spot"
+37        1       1      128    81     "Genocider Warrior Spot"
+37        1       1      191    93     "Genocider Warrior Spot"
+
 38        0       0      66     105    "Kanturu"
 38        0       0      141    186    "Entrance Equipment"
 41        1       2      119    168    "Gatekeeper"
