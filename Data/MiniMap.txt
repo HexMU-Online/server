@@ -309,13 +309,17 @@
 79        1       2      138    143    "Personal Shop Board"
 79        1       2      85     136    "Dynamite"
 79        1       2      84     129    "Lugard"
+
+// karutan
 80        0       0      115    45     "Aida"
 80        0       0      187    212    "North Karutan"
-80        1       4      121    102    "Leina General Goods Merchant"
-80        1       3      117    126    "Weapons Merchant Bolo"
 80        1       5      123    132    "Storage"
 80        1       5      122    96     "Storage"
 80        1       5      157    127    "Storage"
+80        1       4      121    102    "Leina"
+80        1       3      117    126    "Bolo"
+// karutan spots
+
 81        0       0      162    9      "South Karutan"
 91        0       0      26     170    "Alcmaru"
 91        0       0      84     205    "Ubaid"

@@ -868,4 +868,7 @@
 1115	"Doesn't work on this map"
 1116	"[%s] has reached the maximum quantity allowed"
 1117	"%s (Guild: %s) is trying to conquer %s"
+1118    "Monsters invaded the Dungeon. Help us defend it!"                                                                     
+1119    "%s player protected the Dungeon!"
+1120    "You failed to defend the Dungeon." 
 end
