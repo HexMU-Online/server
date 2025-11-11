@@ -262,8 +262,14 @@
 37        1       1      128    81     "Genocider Warrior Spot"
 37        1       1      191    93     "Genocider Warrior Spot"
 
+// kanturu relics
 38        0       0      66     105    "Kanturu"
 38        0       0      141    186    "Entrance Equipment"
+// kanturu relics spots
+38        1       1      123    69     "Persona Spot"
+38        1       1      184    85     "Twin Tale Spot"
+38        1       1      190    134    "Dreadfear Spot"
+
 41        1       2      119    168    "Gatekeeper"
 // elbeland
 51        0       0      248    149    "Atlans"
