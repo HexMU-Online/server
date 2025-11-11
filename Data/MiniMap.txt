@@ -237,6 +237,11 @@
 // kanturu spots
 37        1       1      40     234     "Splinter Wolf Spot"
 37        1       1      82     242     "Splinter Wolf Spot"
+37        1       1      140    225     "Iron Rider Spot"
+37        1       1      180    227     "Iron Rider Spot"
+37        1       1      195    160     "Satyros Spot"
+37        1       1      237    131     "Satyros Spot"
+37        1       1      235    66      "Satyros Spot"
 
 38        0       0      66     105    "Kanturu"
 38        0       0      141    186    "Entrance Equipment"

@@ -5,6 +5,11 @@
 //Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
 351            37             6          39             233            41           235          -1             7             //Splinter Wolf
 351            37             6          81             241            83           243          -1             7             //Splinter Wolf
+352            37             6          139            224            141          226          -1             7             //Iron Rider
+352            37             6          179            226            181          228          -1             7             //Iron Rider
+353            37             6          194            159            196          161          -1             7             //Satyros
+353            37             6          236            130            238          132          -1             7             //Satyros
+353            37             6          234            65             236          67           -1             7             //Satyros
 end
 //=========================================================================================================================================
 // MONSTERS
