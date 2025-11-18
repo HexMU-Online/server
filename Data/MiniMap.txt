@@ -319,6 +319,7 @@
 80        1       4      121    102    "Leina"
 80        1       3      117    126    "Bolo"
 // karutan spots
+80        1       1      101    129    "Orcus Spot"
 
 81        0       0      162    9      "South Karutan"
 91        0       0      26     170    "Alcmaru"
