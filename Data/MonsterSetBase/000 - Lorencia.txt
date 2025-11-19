@@ -7,7 +7,6 @@
 240	       0   	      0  	 145  		109  	       3   	      // Storage
 256	       0   	      6  	 147  		147  	       1   	      // Lahap Quest Giver
 375	       0	      0  	 127  		144  	       2   	      // Chaos Card Master
-229	       0	      0  	 130  		87  	       3   	      // Marlon
 226	       0	      0  	 122  		110  	       3   	      // Trainer
 254	       0	      0  	 118  		113  	       3   	      // Wizard Pasi
 251	       0	      0  	 116  		141  	       3   	      // Hanzo
@@ -22,13 +21,11 @@
 257	       0	      1  	 132  		165  	       3   	      // Shadow Phantom Soldier
 257	       0	      1  	 132  		90  	       3   	      // Shadow Phantom Soldier
 230	       0	      0  	 62  		130  	       3   	      // Alex
-248	       0	      0  	 182  		137  	       2   	      // Harold The Wandering Merchant
+248	       0	      0  	 182  		137  	       2   	      // Martin The Wandering Merchant
 253	       0	      1  	 128  		86  	       2   	      // Potion Girl
 543	       0	      0  	 151  		112  	       1   	      // Adrian Dupree
 478	       0	      0  	 73  		101  	       2   	      // Delgado Lucky Coin
 
-//250	       0	      0  	 125	127	3 	// Martin The Wandering Merchant
-//248	0	0	6	145	2       // Wandering Merchant Martin
 //584	0	0	114	132	3       // Sir.Lesnar (Acheron Guardian Entrance NPC )
 //247	0	0	137	133	3       // NPC_Reset Guar
 //371	0	0	114	125	3       // Crosbow Guard 
