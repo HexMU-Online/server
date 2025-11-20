@@ -1,15 +1,15 @@
 0
 //Section   Type   Level   Dur   Skill   Luck   Option   ExcOp   SetOp   JoH   OEx   Socket1   Socket2   Socket3   Socket4   Socket5   SocketBonus   Duration
-7           39     4       0     0       1      1        0	 0	 0	0    255       255	 255	   255	     255       255	     0          // Violet Wind Helm 
-8           39     4       0     0       1      1        0	 0	 0	0    255       255	 255	   255	     255       255	     0		// Violet Wind Armor
-9           39     4       0     0       1      1        0	 0	 0	0    255       255	 255	   255	     255       255	     0		// Violet Wind Pants
-5           14     4       0     0       1      1        0	 0	 0	0    255       255	 255	   255	     255       255	     0		// Mistery Stick
-5           15     4       0     0       1      1        0	 0	 0	0    255       255	 255	   255	     255       255	     0		// Violet Wing Stick
-10          39     4       0     0       1      1        0	 0	 0	0    255       255	 255	   255	     255       255	     0		// Violet Wind Gloves    
-11          39     4       0     0       1      1        0	 0	 0	0    255       255	 255	   255	     255       255	     0		// Violet Wind Boots
-7           40     4       0     0       1      1        0	 0	 0	0    255       255	 255	   255	     255       255	     0		// Red Winged Helm
-8           40     4       0     0       1      1        0	 0	 0	0    255       255	 255	   255	     255       255	     0		// Red Winged Armor    
-9           40     4       0     0       1      1        0	 0	 0	0    255       255	 255	   255	     255       255	     0		// Red Winged Pants   
-10          40     4       0     0       1      1        0	 0	 0	0    255       255	 255	   255	     255       255	     0		// Red Winged Gloves
-11          40     4       0     0       1      1        0	 0	 0	0    255       255	 255	   255	     255       255	     0		// Red Winged Boots
+7           39     0       0     0       1      1        0	 0	 0	0    255       255	 255	   255	     255       255	     0          // Violet Wind Helm 
+8           39     0       0     0       1      1        0	 0	 0	0    255       255	 255	   255	     255       255	     0		// Violet Wind Armor
+9           39     0       0     0       1      1        0	 0	 0	0    255       255	 255	   255	     255       255	     0		// Violet Wind Pants
+5           14     0       0     0       1      1        0	 0	 0	0    255       255	 255	   255	     255       255	     0		// Mistery Stick
+5           15     0       0     0       1      1        0	 0	 0	0    255       255	 255	   255	     255       255	     0		// Violet Wing Stick
+10          39     0       0     0       1      1        0	 0	 0	0    255       255	 255	   255	     255       255	     0		// Violet Wind Gloves    
+11          39     0       0     0       1      1        0	 0	 0	0    255       255	 255	   255	     255       255	     0		// Violet Wind Boots
+7           40     0       0     0       1      1        0	 0	 0	0    255       255	 255	   255	     255       255	     0		// Red Winged Helm
+8           40     0       0     0       1      1        0	 0	 0	0    255       255	 255	   255	     255       255	     0		// Red Winged Armor    
+9           40     0       0     0       1      1        0	 0	 0	0    255       255	 255	   255	     255       255	     0		// Red Winged Pants   
+10          40     0       0     0       1      1        0	 0	 0	0    255       255	 255	   255	     255       255	     0		// Red Winged Gloves
+11          40     0       0     0       1      1        0	 0	 0	0    255       255	 255	   255	     255       255	     0		// Red Winged Boots
 end
