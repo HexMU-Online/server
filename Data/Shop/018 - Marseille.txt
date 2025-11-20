@@ -1,8 +1,9 @@
 0
-//Section   Type   Level   Dur   Skill   Luck   Option   Excellent
-15          3      0       0     0       0      0        0	0	0	0	255	255	255	255	255	 255	      0  
-15          10     0       0     0       0      0        0	0	0	0	255	255	255	255	255	 255	      0  
-15          1      0       0     0       0      0        0	0	0	0	255	255	255	255	255	 255	      0  
-15          6      0       0     0       0      0        0	0	0	0	255	255	255	255	255	 255	      0  
-15          20     0       0     0       0      0        0	0	0	0	255	255	255	255	255	 255	      0  
+//Section   Type   Level   Dur   Skill   Luck   Option   ExcOp   SetOp   JoH   OEx   Socket1   Socket2   Socket3   Socket4   Socket5   SocketBonus   Duration
+15          3      0       0     0       0      0        0	 0	 0	0    255       255	 255	   255	     255       255	     0          // Fire Ball Scroll
+15          10     0       0     0       0      0        0	 0	 0	0    255       255	 255	   255	     255       255	     0          // Power Wave Scroll
+15          1      0       0     0       0      0        0	 0	 0	0    255       255	 255	   255	     255       255	     0          // Meteorite Scroll
+15          6      0       0     0       0      0        0	 0	 0	0    255       255	 255	   255	     255       255	     0          // Ice Scroll
+15          20     0       0     0       0      0        0	 0	 0	0    255       255	 255	   255	     255       255	     0          // Drain Life Parchment
+15          19     0       0     0       0      0        0	 0	 0	0    255       255	 255	   255	     255       255	     0          // Chain Lightning Parchment
 end
