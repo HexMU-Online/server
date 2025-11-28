@@ -11,7 +11,6 @@
 229	       2	      0	 	 203    	46	       3	      // Marlon
 385	       2	      0	 	 226    	52	       1	      // Illusion Temple
 241	       2	      0	 	 215    	45	       1	      // Guild Master
-376	       2	      0	 	 225    	60	       2	      // Pamela the Supplier
 244	       2	      0	 	 226    	25	       3	      // Caren the Barmaid
 245	       2	      0	 	 225    	41	       3	      // Wizard Izabel
 233	       2	      0	 	 209    	29	       2	      // Blood Castle

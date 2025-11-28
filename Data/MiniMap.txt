@@ -57,9 +57,9 @@
 2         1       2      229    221    "Gaion Entrance"
 2         1       4      32     31     "Natasha Fireworks Merchant"
 2         1       2      204    61     "Tercia Quest Giver"
-2         1       2      226    52     "Illusion Temple"
 2         1       2      191    17     "SM Buffer"
 2         1       2      209    14     "RF Buffer"
+2         1       2      226    52     "Illusion Temple"
 // devias spots
 2         1       1      240    84     "Worm Spot"
 2         1       1      164    15     "Worm Spot"
