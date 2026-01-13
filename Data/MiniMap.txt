@@ -322,11 +322,15 @@
 80        1       1      163    101    "Bone Scorpion Spot"
 80        1       1      163    48     "Bone Scorpion Spot"
 80        1       1      212    20     "Venomous Chain Scorpion Spot"
+80        1       1      174    163    "Venomous Chain Scorpion Spot"
 80        1       1      227    95     "Orcus Spot"
 80        1       1      199    53     "Orcus Spot"
+80        1       1      33     70     "Crypta Spot"
+80        1       1      37     185    "Crypta Spot"
+80        1       1      37     128    "Cryptos Spot"
+80        1       1      223    175    "Cryptos Spot"
 
-80        1       1      101    129    "Orcus Spot"
-
+80        1       1      102    197    "Danger!"
 80        1       1      213    83     "Scorpion Mega Spot"
 
 81        0       0      162    9      "South Karutan"
