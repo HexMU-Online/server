@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Processes>
-  <Process Run="True" Delay="1000" Path="C:\hexmu\[SERVER]\ConnectServer\ConnectServer.exe" Parameters="" />
-  <Process Run="True" Delay="1000" Path="C:\hexmu\[SERVER]\DataServer\DataServer.exe" Parameters="" />
-  <Process Run="True" Delay="1000" Path="C:\hexmu\[SERVER]\JoinServer\JoinServer.exe" Parameters="" />
-  <Process Run="True" Delay="1000" Path="C:\hexmu\[SERVER]\DiscordServer\DiscordServer.exe" Parameters="" />
-  <Process Run="True" Delay="1000" Path="C:\hexmu\[SERVER]\GameServer\GameServer.exe" Parameters="" />
-  <Process Run="True" Delay="1000" Path="C:\hexmu\[SERVER]\GameServerCS\GameServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\[server]\ConnectServer\ConnectServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\[server]\DataServer\DataServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\[server]\JoinServer\JoinServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\[server]\GameServer\GameServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\[server]\GameServerCS\GameServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\[server]\DiscordServer\DiscordServer.exe" Parameters="" />
 </Processes>
