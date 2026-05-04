@@ -42,3 +42,6 @@
   - Invasion monsters
 - activate dps calculator window for elite monsters
 - increase monster stats for harder maps
+- edit battlepass
+- create in game custom shop
+- create quests
