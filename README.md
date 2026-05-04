@@ -1,1 +1,44 @@
 # server
+
+## to do:
+- add monster spots
+  - Karutan 2
+  - Ralkion
+  - Crywolf
+  - Castle Deep
+  - Kalima 1
+  - Kalima 2
+  - Kalima 3
+  - Kalima 4
+  - Kalima 5
+  - Kalima 6
+  - Kalima 7
+  - Vulcanus
+  - Archeron
+- add rewards to
+  - Lucky Box
+  - Box of Kundun 1
+  - Box of Kundun 2
+  - Box of Kundun 3
+  - Box of Kundun 4
+  - Box of Kundun 5
+- set events timers
+  - Blood Castle
+  - Devil Square
+  - Chaos Castle
+  - Illusion Temple
+  - Pandora
+  - Find Seek
+  - Battle Royale
+  - Invasions
+- set events rewards
+  - Blood Castle
+  - Devil Square
+  - Chaos Castle
+  - Illusion Temple
+  - Pandora
+  - Find Seek
+  - Battle Royale
+  - Invasion monsters
+- activate dps calculator window for elite monsters
+- increase monster stats for harder maps
